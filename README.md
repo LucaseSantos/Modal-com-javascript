@@ -1,2 +1,2 @@
 # Modal-com-javascript
-.html
+ Modal feito com html5-css3-javascript
